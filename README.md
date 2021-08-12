@@ -8,4 +8,4 @@ On our E-commerce app UI has two pages one for the product page which has a hori
 
 # App Final UI
 
-!(https://github.com/kashif043/Online-Shop-Flutter_UI/blob/main/image.png?raw=true)
+!(https://github.com/kashif043/Online-Shop-Flutter-UI/blob/main/image.png?raw=true)
