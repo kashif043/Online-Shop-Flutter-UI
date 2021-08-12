@@ -1,4 +1,4 @@
-# online_shop
+# Online-Shop-Flutter-UI
 
 A new Flutter project.
 
